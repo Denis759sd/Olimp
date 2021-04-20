@@ -1,0 +1,11 @@
+body{
+    box-shadow: black;
+}
+
+.view_of_restauran{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 300px;
+    width: 300px;
+}
